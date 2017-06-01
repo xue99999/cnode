@@ -3,6 +3,7 @@ import './iconfont/iconfont.css'
 
 
 import Vue from 'vue'
+import axios from 'axios'
 import App from './App'
 import router from './router'
 import components from './components/'
